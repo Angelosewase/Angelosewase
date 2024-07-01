@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sewase Angel</h1>
-<h3 align="center">A passionate frontend developer from Rwanda</h3>
+<h3 align="center">A passionate  developer from Rwanda</h3>
 
 - 🔭 I’m currently working on [ride_share](https://github.com/Angelosewase/ride-share)
 
