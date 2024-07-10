@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang,java**
 
-- 👯 I’m looking to collaborate on [Doct](https://github.com/Angelosewase/Doct)
+- 👯 I’m looking to collaborate on any project
 
 - 💬 Ask me about **react,nextjs,redux,nodejs, express, react native**
 
