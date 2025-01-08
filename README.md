@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [ride_share](https://github.com/Angelosewase/ride-share)
 
-- 🌱 I’m currently learning **java**
 
 - 👯 I’m looking to collaborate on  any project
 
